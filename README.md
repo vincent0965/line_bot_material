@@ -1,4 +1,8 @@
-開啟Ngrok連線指令
+LINE Bot
+可在LINE上面進行對話與互動
+
+
+設定local link -> Ngrok連線指令
 Ngrok.exe http 5000 -region ap
 生成網址後連接line的api
 
